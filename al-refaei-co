@@ -1,0 +1,81 @@
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://alrefaeilawfirm.sa/#organization",
+      "name": "الرفاعي وشركاؤه",
+      "legalName": "الرفاعي وشركاؤه للمحاماة والاستشارات القانونية",
+      "alternateName": "Al-Refaei & Co",
+      "url": "https://alrefaeilawfirm.sa/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://alrefaeilawfirm.sa/assets/images/logo.png"
+      },
+      "description": "أول شركة محاماة سعودية (مساهمة مهنية) تقدم خدمات قانونية بمعايير عالمية وخبرات محلية من خلال نموذج مؤسسي محوكم.",
+      "email": "info@alrefaeilawfirm.sa",
+      "telephone": "+966114354440",
+      "sameAs": [
+        "https://www.linkedin.com/in/alrefaei-co-news",
+        "https://x.com/alrefaeiandco",
+        "https://www.instagram.com/alrefaeiconew/",
+        "https://www.facebook.com/alrefaeiconew/",
+        "https://www.tiktok.com/@alrefaeiconews"
+      ],
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "D-U-N-S Number",
+        "value": "56-180-4703"
+      },
+      "hasCertification": {
+        "@type": "Certification",
+        "name": "ISO 9001:2015 Quality Management System (QMS)"
+      },
+      "location": {
+        "@type": "Place",
+        "@id": "https://alrefaeilawfirm.sa/#office",
+        "name": "Al-Refaei & Co – Riyadh Office",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Platinum Centre, Az Zahra",
+          "addressLocality": "Riyadh",
+          "addressRegion": "Riyadh Province",
+          "postalCode": "12384",
+          "addressCountry": "SA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 24.692562928062163,
+          "longitude": 46.723823569585555
+        }
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+966114354440",
+        "email": "info@alrefaeilawfirm.sa",
+        "contactType": "general inquiries",
+        "availableLanguage": [
+          "Arabic",
+          "English"
+        ]
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://alrefaeilawfirm.sa/#website",
+      "name": "الرفاعي وشركاؤه",
+      "alternateName": "Al-Refaei & Co",
+      "url": "https://alrefaeilawfirm.sa/",
+      "publisher": {
+        "@id": "https://alrefaeilawfirm.sa/#organization"
+      },
+      "inLanguage": [
+        "ar",
+        "en"
+      ]
+    }
+  ]
+}
+</script>
