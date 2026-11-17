@@ -1,0 +1,81 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://thalool-law.sa/#organization",
+      "name": "شركة ذلول للمحاماة والاستشارات القانونية",
+      "legalName": "ذلول للمحاماة",
+      "alternateName": "Thalool Law Firm and Legal Consultation",
+      "url": "https://thalool-law.sa/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://thalool-law.sa/wp-content/uploads/2024/06/شركة-ذلول-للمحاماة-والاستشارات-القانونية-02222.png"
+      },
+      "description": "شركة ذلول للمحاماة والاستشارات القانونية شركة مهنية متخصصة في تقديم الخدمات والاستشارات القانونية والشرعية والإدارية في المملكة العربية السعودية. تضم نخبة من المحامين والمستشارين والأكاديميين والباحثين ذوي الخبرات المتنوعة، وتقدم حلولاً قانونية مبتكرة باحترافية عالية في مختلف مجالات القانون، مع التركيز على تطوير الخدمات ومتابعة احتياجات العملاء بكفاءة.",
+      "email": "Info@thalool-law.sa",
+      "telephone": "+966580100921",
+      "sameAs": [
+        "https://www.linkedin.com/company/thaloolsa",
+        "https://x.com/thaloolsa",
+        "https://www.tiktok.com/@thalool",
+        "https://www.instagram.com/thaloolsa/"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Prince Faisal Bin Fahd Road, Olaya",
+        "addressLocality": "Al Khobar",
+        "addressRegion": "Eastern Province",
+        "postalCode": "34447",
+        "addressCountry": "SA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 26.30742676177747,
+        "longitude": 50.178708615344405
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "Saudi Arabia"
+      },
+      "knowsAbout": [
+        "Corporate and Commercial Law",
+        "Contract Law",
+        "Labor and Employment Law",
+        "Criminal Law",
+        "Civil Litigation",
+        "Administrative Law",
+        "Debt Collection and Recovery",
+        "Dispute Resolution",
+        "Corporate Governance",
+        "Intellectual Property Law"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+966580100921",
+        "email": "Info@thalool-law.sa",
+        "contactType": "general inquiries",
+        "availableLanguage": [
+          "Arabic",
+          "English"
+        ]
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://thalool-law.sa/#website",
+      "name": "شركة ذلول للمحاماة والاستشارات القانونية",
+      "alternateName": "Thalool Law Firm and Legal Consultation",
+      "url": "https://thalool-law.sa/",
+      "publisher": {
+        "@id": "https://thalool-law.sa/#organization"
+      },
+      "inLanguage": [
+        "ar",
+        "en"
+      ]
+    }
+  ]
+}
+</script>
